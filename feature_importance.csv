@@ -1,0 +1,13 @@
+feature,importance
+inspection_method_Automated Testing,0.09357579934951835
+defect_location_Component,0.06035975630032556
+defect_type_Cosmetic,0.03996972533826411
+inspection_method_Visual Inspection,0.03843048491289327
+inspection_method_Manual Testing,0.037942169229728345
+defect_type_Structural,0.03745705093176619
+defect_location_Surface,0.03702481218844348
+defect_type_Functional,0.0367014868679178
+defect_location_Internal,0.03661547479285461
+severity_Moderate,0.0011612210651557049
+severity_Critical,0.0009861373947695146
+severity_Minor,0.0004527643963297768
